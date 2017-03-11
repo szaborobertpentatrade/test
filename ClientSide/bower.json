@@ -1,0 +1,9 @@
+{
+  "name": "WebSite2",
+  "dependencies": {
+    "angularjs": ">=1.4.5",
+    "jquery": ">=2.1.1", 
+    "materialize": "*"
+  }  
+}
+ 
